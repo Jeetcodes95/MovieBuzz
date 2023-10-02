@@ -1,7 +1,7 @@
-import Home from '@/Components/Home'
-import Trending from '@/Components/Trending'
+import Home from '@/Components/Home.jsx'
+import Trending from '@/Components/Trending.jsx'
 import React from 'react'
-import FreeToWatch from '@/Components/freeToWatch'
+import FreeToWatch from '@/Components/FreeToWatch.jsx'
 
 const page = () => {
   return (
